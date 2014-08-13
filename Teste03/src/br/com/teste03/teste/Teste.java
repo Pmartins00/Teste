@@ -6,5 +6,7 @@ public class Teste {
 		
 		System.out.println("Ola Mundo!");
 		
+		System.out.println("Teste Comit!!");
+		
 	}
 }
