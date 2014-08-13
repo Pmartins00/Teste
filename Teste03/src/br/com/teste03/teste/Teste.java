@@ -8,5 +8,7 @@ public class Teste {
 		
 		System.out.println("Teste Comit!!");
 		
+		System.out.println("Ola Mundo novamente!");
+		
 	}
 }
